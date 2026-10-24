@@ -1,0 +1,30 @@
+===== Timetable Analysis - 26000985 =====
+Day        9-10        10-11       11-12       12-1        2-3         3-4         
+-------------------------------------------------------------------------------------
+Monday     Python      DBMS        FREE        DSA         OS          FREE         | Free: 2
+Tuesday    DBMS        Python      OS          FREE        DSA         Library      | Free: 1
+Wednesday  DSA         FREE        Python      DBMS        Sports      OS           | Free: 1
+Thursday   OS          DSA         DBMS        Python      FREE        FREE         | Free: 2
+Friday     Python Lab  DBMS Lab    DSA Lab     FREE        Seminar     FREE         | Free: 2
+Saturday   FREE        FREE        FREE        FREE        FREE        FREE         | Free: 6
+-------------------------------------------------------------------------------------
+
+--- Daily Class Count ---
+Monday: 4 classes
+Tuesday: 5 classes
+Wednesday: 5 classes
+Thursday: 4 classes
+Friday: 4 classes
+Saturday: 0 classes
+
+Busiest Day: Tuesday with 5 classes
+
+--- Searching for Python ---
+Python found on:
+  - Monday (9-10)
+  - Tuesday (10-11)
+  - Wednesday (11-12)
+  - Thursday (12-1)
+  - Friday (9-10)
+
+
