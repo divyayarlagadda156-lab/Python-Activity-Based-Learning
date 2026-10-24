@@ -1,0 +1,38 @@
+===== Campus Management System - 26000985 =====
+College: NRI Institute | Section: CSM2
+---------------------------------------------------------------------------
+Roll         Name                      Course   Attend%  Fees
+---------------------------------------------------------------------------
+26000985     Divya Sita Maha Lakshmi   CSM      92       110000
+26000901     Rahul Kumar               CSE      85       100000
+26000902     Priya Sharma              CSD      88       105000
+26000903     Anjali Reddy              ECE      78       95000
+26000904     Karthik Rao               CSM      90       110000
+26000905     Suresh Babu               EEE      75       90000
+26000906     Geetha Lakshmi            CSE      95       100000
+---------------------------------------------------------------------------
+
+Total Students: 7
+
+--- Course Wise Enrollment ---
+CSE: 2 students
+CSM: 2 students
+CSD: 1 students
+ECE: 1 students
+EEE: 1 students
+Most Popular Course: CSE (2 students)
+
+Total Fees Collected: Rs. 710000
+
+--- Attendance Audit (<75% Alert) ---
+  All students have good attendance!
+
+--- Search Demo: Roll 26000985 ---
+Found: Divya Sita Maha Lakshmi - Course: CSM, Attendance: 92%
+
+--- Adding New Student ---
+Added Successfully! New Total: 8
+
+===== Campus Report Generated Successfully =====
+
+
