@@ -1,0 +1,27 @@
+Welcome User: 26000985
+Initial Balance: 10000
+
+--- Option Selected: 1 ---
+Current Balance: Rs. 10000
+
+--- Option Selected: 2 ---
+Deposited: 5000 | New Balance: 15000
+
+--- Option Selected: 3 ---
+Withdrawn: 2000 | New Balance: 13000
+
+--- Option Selected: 3 ---
+FAILED: Insufficient Balance. You have 13000, tried 20000
+
+--- Option Selected: 4 ---
+Transaction History:
+  1. Type:DEPOSIT Amount:5000 Balance:15000
+  2. Type:WITHDRAW Amount:2000 Balance:13000
+  3. Type:FAILED-WITHDRAW Amount:20000 Balance:13000
+
+--- Option Selected: 5 ---
+Thank you! Visit Again
+
+===== Final Report =====
+Final Balance: 13000
+Total Transactions: 3
