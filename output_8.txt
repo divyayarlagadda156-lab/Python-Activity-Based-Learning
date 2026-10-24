@@ -1,0 +1,28 @@
+===== Academic Audit Report - 26000985 =====
+Name               Attend%    Marks%   Category     Action
+---------------------------------------------------------------------------
+Divya_26000985     92         85       Excellent    Appreciate
+Rahul              65         55       Risk         Immediate Meeting
+Priya              95         92       Excellent    Appreciate
+Anjali             80         70       Good         Encourage
+Karthik            60         45       Risk         Immediate Meeting
+Suresh             88         78       Good         Encourage
+Geetha             72         65       Average      Improve Attendance
+Arjun              95         58       Average      Need Support
+Sneha              78         88       Good         Encourage
+---------------------------------------------------------------------------
+
+--- Category Wise Summary ---
+Excellent: 2 students
+Good: 3 students
+Average: 2 students
+Risk: 2 students
+
+--- Risk Students List (Need Immediate Attention) ---
+  - Rahul
+  - Karthik
+
+--- Dictionary Data for Verification ---
+Audit Results: {'Divya_26000985': 'Excellent', 'Rahul': 'Risk', 'Priya': 'Excellent', 'Anjali': 'Good', 'Karthik': 'Risk', 'Suresh': 'Good', 'Geetha': 'Average', 'Arjun': 'Average', 'Sneha': 'Good'}
+
+Process finished with exit code 0
