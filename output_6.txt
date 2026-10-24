@@ -1,0 +1,31 @@
+===== Student Record Checker - 26000985 =====
+Valid Branches: ('CSE', 'CSM', 'CSD', 'ECE', 'EEE', 'MECH', 'CIVIL')
+------------------------------------------------------------
+
+Checking ID: NRI-2023-CSM-0985
+  Result: VALID - Year Prefix: 20, Branch: CSM
+  Details: College=NRI, Year=2023, Branch=CSM, No=0985
+
+Checking ID: NRI-2025-CSE-0123
+  Result: VALID - Year Prefix: 20, Branch: CSE
+  Details: College=NRI, Year=2025, Branch=CSE, No=0123
+
+Checking ID: NRI-2020-ECE-0001
+  Result: VALID - Year Prefix: 20, Branch: ECE
+  Details: College=NRI, Year=2020, Branch=ECE, No=0001
+
+Checking ID: ABC-2023-CSE-0123
+  Result: INVALID - College should be NRI
+
+Checking ID: NRI-2019-CSE-0123
+  Result: INVALID - Year should be between 2020-2026
+
+Checking ID: NRI-2023-XYZ-0123
+  Result: INVALID - Branch XYZ not in valid list
+
+Checking ID: NRI-2023-CSE-ABCD
+  Result: INVALID - Number should be 4 digits
+
+===== Validation Completed =====
+
+Process finished with exit code 0
