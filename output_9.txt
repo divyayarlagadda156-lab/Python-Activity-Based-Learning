@@ -1,0 +1,24 @@
+===== E-Commerce Orders - 26000985 =====
+OrderID    Product            Qty   Price   SubTotal   Disc    GST     Final
+-----------------------------------------------------------------------------------------------
+ORD001     Python Book        2     450     900        0       162     1062
+ORD002     Laptop Bag         1     1200    1200       0       216     1416
+ORD003     Wireless Mouse     4     650     2600       260     421     2761
+ORD004     USB Drive 64GB     6     350     2100       315     321     2106
+ORD005     Keyboard           3     1100    3300       330     535     3505
+-----------------------------------------------------------------------------------------------
+Grand Total of All Orders: Rs. 10850.10
+
+--- Customer Wise Summary ---
+  Divya_26000985 ordered 2 x Python Book
+  Rahul ordered 1 x Laptop Bag
+  Priya ordered 4 x Wireless Mouse
+  Anjali ordered 6 x USB Drive 64GB
+  Karthik ordered 3 x Keyboard
+
+--- High Value Orders (>2000) ---
+  ORD003: Wireless Mouse - Rs.2761
+  ORD004: USB Drive 64GB - Rs.2106
+  ORD005: Keyboard - Rs.3505
+
+
