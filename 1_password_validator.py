@@ -1,17 +1,17 @@
 # ============================================================
-# Case Study 29: Password Policy Validation Engine
+# Case Study 1: Password Policy Validation Engine
 # Name: Yarlagadda Divya Sita Maha Lakshmi
 # Roll: 26000985 Section: CSM2
 # ============================================================
-# Problem Statement: Passwords ni 6 rules tho validate cheyali
-# Objectives: loops, strings, lists, tuples, unpacking vadali
+# Problem Statement:validate passwords using 6 rules:length,uppercase,lowercase,digit,special character,no prohibited words
+# Objectives:use loops,strings,lists,tuples,unpacking
 # Algorithm:
 # 1. Start
-# 2. List of (username, password) tuples teesuko
-# 3. Prati password ki loop
-# 4. Length, upper, lower, digit, special, prohibited checks
-# 5. Errors list lo store cheyi
-# 6. Valid/Invalid print cheyi
+# 2. List of (username, password) tuples 
+# 3.loop for each password
+# 4.check Length, upper, lower, digit, special, prohibited 
+# 5. store errors in error list
+# 6. print valid/invaild
 # 7. Stop
 # ============================================================
 
